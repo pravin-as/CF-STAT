@@ -1,0 +1,82 @@
+.heading {
+  text-transform: uppercase;
+  font-family: "Cormorant SC", serif;
+  text-align: center;
+}
+.heading-light {
+  color: #c4a88a;
+  border-bottom: 2px #5a5a5a dashed;
+}
+
+.compare-head {
+  display: flex;
+  justify-content: center;
+}
+.contestcompare {
+  background-color: #1c1e26;
+  border-radius: 2%;
+  width: 60%;
+  height: 30%;
+  margin: 50px auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+
+.ratingcompare {
+  background-color: #1c1e26;
+  border-radius: 2%;
+  width: 60%;
+  height: 30%;
+  margin: 50px auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+
+.updown1 {
+  
+  background-color: #1c1e26;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  width: 60%;
+}
+
+.ratingcompare2 {
+  background-color: #1c1e26;
+  border-radius: 2%;
+  width: 80%;
+  height: 30%;
+  margin: 50px auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+
+.bigtable2 {
+  margin: 50px;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1e26;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}

@@ -1,0 +1,92 @@
+.heading {
+  margin-top: 20px;
+  padding-bottom: 16px;
+  text-transform: uppercase;
+  font-family: "Cormorant SC", serif;
+  text-align: center;
+}
+.heading-light {
+  color: #c4a88a;
+  border-bottom: 2px #5a5a5a dashed;
+}
+
+.rating {
+  background-color: #1c1e26;
+  border-radius: 2%;
+  width: 60%;
+  height: 30%;
+  margin: 50px auto;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+
+.ratingpara {
+  margin-left: 8.5%;
+  margin-bottom: 1%;
+  font-size: 1.2em;
+  color: #c4a88a;
+  font-family: "Cormorant SC", serif;
+}
+.piechart {
+  margin-right: 50px;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+.piechart2 {
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+.content-table {
+  background-color: white;
+  font-size: 1em;
+  margin: auto;
+}
+
+.bigtable {
+  margin: 50px;
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1e26;
+  -webkit-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 1px 5px 9px rgba(0, 0, 0, 0.75);
+}
+
+.pie-container {
+  display: flex;
+  justify-content: center;
+  background-color: #1c1e26;
+}
+
+.head-cell {
+  font-family: "Cormorant SC", serif;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #c4a88a;
+}
+
+.game-cell {
+  font-family: "Cairo", sans-serif;
+  font-size: 16px;
+}
+.odd-cell {
+  background-color: #e4a88a;
+}
+
+.loadingscreen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
